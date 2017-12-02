@@ -1,1 +1,2 @@
 'Hello World!'
+"This is the test of emergency git casting " 
